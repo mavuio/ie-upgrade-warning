@@ -1,5 +1,5 @@
 {
-    "name": "werkzeugh/ie-update-warning",
+    "name": "werkzeugh/ie-upgrade-warning",
     "description": "",
     "authors": [
         {
@@ -7,14 +7,5 @@
             "email": "manfred@werkzeugh.at"
         }
     ],
-    "require": {
-        "php": ">=5.3.0",
-        "illuminate/support": "4.1.*"
-    },
-    "autoload": {
-        "psr-0": {
-            "Werkzeugh\\IeUpdateWarning": "src/"
-        }
-    },
     "minimum-stability": "stable"
 }
